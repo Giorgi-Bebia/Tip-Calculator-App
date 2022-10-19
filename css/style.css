@@ -228,7 +228,7 @@ main {
 }
 
 .number-people {
-    width: 157px;
+    width: 190px;
     height: 24px;
     font-family: 'Space Mono', monospace;
     font-weight: 700;
@@ -247,7 +247,7 @@ main {
     line-height: 23.7px;
     color: #E17457;
     padding-top: 40px;
-    padding-left: 94px;
+    padding-left: 55px;
     display: none;
 }
 
