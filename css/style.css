@@ -306,7 +306,7 @@ main {
 }
 
 .split-tip {
-    width: 98px;
+    width: 115px;
     height: 24px;
     font-family: 'Space Mono', monospace;
     font-weight: 700;
@@ -339,6 +339,10 @@ main {
     letter-spacing: -1px;
     text-align: right;
     overflow: hidden;
+}
+
+.split-tip-result {
+    width: 218px;
 }
 
 .split-total {
