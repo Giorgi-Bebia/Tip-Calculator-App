@@ -32,6 +32,7 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- JavaScript
 
 ## Author
 - Github - [Giorgi Bebia](https://github.com/Giorgi-Bebia)
