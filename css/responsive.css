@@ -19,12 +19,13 @@
     }
 
     .bill-number {
-        width: 311px;
+        width: 293px;
         height: 48px;
+        padding-right: 17px;
     }
 
     .bill-number:hover {
-        width: 311px;
+        width: 293px;
     }
 
     .tips {
@@ -45,8 +46,16 @@
         width: 146.63px;
     }
 
+    .h2-tip {
+        width: 147px;
+    }
+
     .tip-number {
         width: 138px;
+    }
+
+    .tip-number::placeholder {
+        padding-left: 40px;
     }
 
     .number-people {
@@ -58,7 +67,8 @@
     }
 
     .input-number-people {
-        width: 311px;
+        width: 293px;
+        padding-right: 17px;
     }
 
     .result {
